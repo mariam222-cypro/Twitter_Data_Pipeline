@@ -41,8 +41,8 @@ To get started with the project, you'll need to follow these steps:
 Install the necessary dependencies. This project uses PySpark, Hive, and Hadoop. Make sure you have them installed and configured on your system.
 Clone the repository to your local machine.
 Create a Twitter developer account and obtain the necessary credentials to access the Twitter API.
-Update the config.py file with your Twitter API credentials and other relevant settings.
-Run the shell script coordinator to execute the pipeline.
+Update the get_tweets.py file with your Twitter API credentials and other relevant settings.
+Run the pipeline_coordinator.sh script coordinator to execute the pipeline.
 
 ## Contributing
 
